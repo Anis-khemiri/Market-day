@@ -4,10 +4,8 @@
   {
     "src": "*.js",
     "use": "@vercel/node"
-  },
-  {
-    "devCommand": "npm start"
   }
+  
 ],
 
 
